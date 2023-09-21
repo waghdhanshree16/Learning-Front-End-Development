@@ -1,0 +1,39 @@
+  * {
+    /*border: 1px solid red;*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+ }
+ body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ p {
+    color: brown;
+    width: 300px;
+    display: inline-block;
+ }
+ a{
+    width: 400px;
+    display: inline-block;
+ }
+
+ img {
+    width: 100px;
+ }
+ ul {
+    list-style: none;
+    text-align: end;
+    padding: 30px;
+    background-color: black;
+    color: aqua
+ }
+
+ li {
+       display: inline;
+       padding: 20px;
+ }
+ li:hover {
+     color:violet ;
+     cursor: pointer;
+ }

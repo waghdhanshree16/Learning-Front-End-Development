@@ -1,0 +1,20 @@
+main{
+    border: 5px solid royalblue;
+    /*width:50%; */
+    width: 25%;
+}
+body  {
+    font-size: 2em;
+}
+header{
+    font-size: 2em;
+}
+h1 {
+  font-size: 3rem;
+}
+
+section{
+    border: 5px dashed red;
+    width: 40vw;
+    
+}
