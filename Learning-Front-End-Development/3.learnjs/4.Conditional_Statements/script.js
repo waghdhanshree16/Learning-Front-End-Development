@@ -1,21 +1,22 @@
-const age = 4;
+// if else
+// const age = 4;
 
-if(age >= 18) {
-    console.log("you are inside if");
-    console.log("you can vote");
+// if(age >= 18) {
+    // console.log("you are inside if");
+    // console.log("you can vote");
 
-    if(age > 60) {
-        console.log("you can vote again")
-    }
- }  else {
-    console.log("you cannot vote")
+    // if(age > 60) {
+       // console.log("you can vote again")
+    // }
+ // }  else {
+    // console.log("you cannot vote")
  
-  if(age < 5) {
-    console.log("you must go to the school")
-  }
-}
+   // if(age < 5) {
+    // console.log("you must go to the school")
+  //}
+//}
 
-console.log("this will execute always")
+//console.log("this will execute always")
 
 //const marks = 56;
 
@@ -30,3 +31,9 @@ console.log("this will execute always")
 // } else {
    // console.log('low marks')
  // }
+
+ const marks = 10;
+ const result = marks >= 40 ? "PASSED" : "FAILED";
+
+ let result = ";
+ "
