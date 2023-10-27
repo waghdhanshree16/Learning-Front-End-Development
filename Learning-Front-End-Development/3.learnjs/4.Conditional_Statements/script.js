@@ -35,7 +35,7 @@
 
    const result = marks >= 40 ? "PASSED" : "FAILED";
 
-   let result = "";
+   let = "";
    if(marks >= 40) {
       result = "PASSED";
    }else {
