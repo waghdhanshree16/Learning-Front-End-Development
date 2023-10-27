@@ -29,4 +29,19 @@
 // } else if(marks > 60) {
    // console.log('B');
 // } else {
-   // console.log('low marks'
+   // console.log('low marks')}
+
+   const marks = 10;
+
+   const result = marks >= 40 ? "PASSED" : "FAILED";
+
+   let result = "";
+   if(marks >= 40) {
+      result = "PASSED";
+   }else {
+      result = "FAILED";
+   }
+
+result = "HAHA"
+
+   console.log("result", result);
