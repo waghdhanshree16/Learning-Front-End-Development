@@ -16,11 +16,16 @@
 // } while (step < 5);
 
 let step = 0;
-while (step <5) {
-    step += 1;
-    if (step === 2) {
-        continue;
-    }
+while (step < 5) {
+  step += 1;
+  if (step ===4 ) {
+    continue;
+  }
     console.log("step",step);
 
 }
+
+//o/p
+// 1
+// 3
+// 4
